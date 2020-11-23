@@ -20,7 +20,7 @@ An implementation of a parallel MergeSort using Threaded Building Blocks.
 ## Compiling
 1. Clone the repository with the following command
 ```
-git clone https://gitlab.com/jacobwinters/tbb-mergesort.git
+git clone https://gitlab.com/enochlev/TBB-MergeSort.git
 ```
 2. Navigate to the directory containing the code
 3. Run the following code to compile
@@ -34,3 +34,9 @@ g++ code.cpp -ltbb -O2 -o tbb-merge
 ```
 ./a.out
 ```
+
+### Note
+Code Built by 
+Enoch Levandovsky 
+Nathan Teeter
+Jacob Winters
