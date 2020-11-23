@@ -37,6 +37,4 @@ g++ code.cpp -ltbb -O2 -o tbb-merge
 
 ### Note
 Code Built by 
-Enoch Levandovsky 
-Nathan Teeter
-Jacob Winters
+Enoch Levandovsky, Nathan Teeter, and Jacob Winters
